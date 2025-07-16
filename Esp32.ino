@@ -11,10 +11,10 @@
 // --------------------------------
 // Wifi Ağı ve Telegram Bilgileri
 // --------------------------------
-const char *ssid = "aa";
-const char *password = "12345678";
-String BOTtoken = "8075037025:AAHkhy1Y2ldZ5pBxwX9cYnff0QRyWT7jubs";
-String CHAT_ID = "7203548251";
+const char *ssid = "YOUR-WIFI-SSID";
+const char *password = "YOUR-WIFI-PASSWORDS";
+String BOTtoken = "YOUR-TELEGRAM-TOKENS";
+String CHAT_ID = "YOUR-TELEGRAM-CHATID";
 
 // Yedek Kurtarma Şifre Sistemi
 String recoveryCodes[10];
